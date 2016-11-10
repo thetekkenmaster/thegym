@@ -1,1 +1,1 @@
-# thewadeway.adamthedeveleper.com
+# thegym.adamthedeveleper.com
