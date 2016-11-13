@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+<?php
+
+	echo "This is PHP!";
+	
+	
+?>
+
+<!--<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
@@ -323,4 +330,4 @@ footer.second {
 	</footer>
 	
 </body>
-</html>
+</html>-->
