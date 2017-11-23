@@ -1,1 +1,1 @@
-# thegym.adamthedeveleper.com
+# thegym.adamthedeveleper.org
